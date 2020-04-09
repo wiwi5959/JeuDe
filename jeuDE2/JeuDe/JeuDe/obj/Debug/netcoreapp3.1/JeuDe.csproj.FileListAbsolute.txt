@@ -1,0 +1,11 @@
+C:\Users\wilfried\source\repos\JeuDe\JeuDe\bin\Debug\netcoreapp3.1\JeuDe.exe
+C:\Users\wilfried\source\repos\JeuDe\JeuDe\bin\Debug\netcoreapp3.1\JeuDe.deps.json
+C:\Users\wilfried\source\repos\JeuDe\JeuDe\bin\Debug\netcoreapp3.1\JeuDe.runtimeconfig.json
+C:\Users\wilfried\source\repos\JeuDe\JeuDe\bin\Debug\netcoreapp3.1\JeuDe.runtimeconfig.dev.json
+C:\Users\wilfried\source\repos\JeuDe\JeuDe\bin\Debug\netcoreapp3.1\JeuDe.dll
+C:\Users\wilfried\source\repos\JeuDe\JeuDe\bin\Debug\netcoreapp3.1\JeuDe.pdb
+C:\Users\wilfried\source\repos\JeuDe\JeuDe\obj\Debug\netcoreapp3.1\JeuDe.csprojAssemblyReference.cache
+C:\Users\wilfried\source\repos\JeuDe\JeuDe\obj\Debug\netcoreapp3.1\JeuDe.AssemblyInfoInputs.cache
+C:\Users\wilfried\source\repos\JeuDe\JeuDe\obj\Debug\netcoreapp3.1\JeuDe.AssemblyInfo.cs
+C:\Users\wilfried\source\repos\JeuDe\JeuDe\obj\Debug\netcoreapp3.1\JeuDe.dll
+C:\Users\wilfried\source\repos\JeuDe\JeuDe\obj\Debug\netcoreapp3.1\JeuDe.pdb
